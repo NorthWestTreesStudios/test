@@ -27,3 +27,8 @@ a {
 td {
   border: 2px solid #EBEDE9;
 }
+
+.pixel-art {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
