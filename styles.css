@@ -25,6 +25,12 @@ a {
 }
 
 td {
+  color: #DE9E41;
+  border: 2px solid #EBEDE9;
+}
+
+th {
+  color: #DE9E41;
   border: 2px solid #EBEDE9;
 }
 
