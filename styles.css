@@ -29,6 +29,9 @@ td {
 }
 
 .pixel-art {
+  width: 64px;   /* 4x scale */
+  height: 64px;
+ 
   image-rendering: pixelated;
-  image-rendering: crisp-edges;
+  image-rendering: crisp-edges; /* Fallback for some browsers */
 }
