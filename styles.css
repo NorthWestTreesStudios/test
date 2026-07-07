@@ -24,16 +24,25 @@ a {
   color: #75A743;
 }
 
-td {
-  color: #DE9E41;
-  border: 2px solid #EBEDE9;
+/* Table, and Table Rows */
+table, tr {
+  padding: 0px;
+  margin: 0px;
 }
 
+/* Table Header "First Cell" */
 th {
   color: #DE9E41;
   border: 2px solid #EBEDE9;
 }
 
+/* Table Data "Cells" */
+td {
+  color: #DE9E41;
+  border: 2px solid #EBEDE9;
+}
+
+/* Class can be used to make pixel art images on HTML pages. */
 .pixel-art {
   width: 256px;   /* 4x scale */
   height: 256px;
