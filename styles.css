@@ -1,13 +1,31 @@
+/* Full Site */
 * {
   font-family: Arial, Helvetica, sans-serif;
   padding: 0px;
   margin: 0px;
 }
 
+/* Root Tag */
 html {
   background-color: #172038;
+  padding: 20px;
 }
 
-body {
-  margin: 20px;
+/* Headers */
+h1, h2, h3, h4 {
+  color: #DE9E41;
+}
+
+/* Paragraphs and Lists */
+p, li {
+  color: #EBEDE9;
+}
+
+/* Links */
+a {
+  color: #75A743;
+}
+
+td {
+  border: 2px solid #EBEDE9;
 }
