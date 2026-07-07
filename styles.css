@@ -33,12 +33,16 @@ table, tr {
 
 /* Table Header "First Cell" */
 th {
+  margin: 0px;
+  padding: 10px;
   color: #DE9E41;
   border: 2px solid #EBEDE9;
 }
 
 /* Table Data "Cells" */
 td {
+  margin: 0px;
+  padding: 10px;
   color: #EBEDE9;
   border: 2px solid #EBEDE9;
 }
